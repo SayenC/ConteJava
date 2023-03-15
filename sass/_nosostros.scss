@@ -1,0 +1,20 @@
+
+header {
+    background-color: rgb(155, 136, 111);
+    text-align: center;
+
+    nav{
+        width: 80%;
+        margin: 0%;
+
+            li{font-weight: 100;
+                font-size: 25px;
+                list-style-type: none;
+        }
+
+        ul {
+            justify-content: space-around;
+            display: flex;
+        }
+    }
+}
